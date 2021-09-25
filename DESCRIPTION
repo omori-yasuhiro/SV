@@ -1,13 +1,11 @@
 Package: SV
 Type: Package
-Title: What the package does (short line)
+Title: Mixture sampler for stochastic volatility models
 Version: 1.0
 Date: 2021-09-24
-Author: Who wrote it
-Maintainer: Who to complain to
-     <yourfault@somewhere.net>
-Description: More about what it does (maybe more
-     than one line)
-License: What license is it under?
+Author: Ryuji Hashimoto and Yasuhiro Omori
+Maintainer: Yasuhiro Omori <omori@e.u-tokyo.ac.jp>
+Description: It will implement Markov chain Monte Carlo simulation for stochastic volatility models using the mixture sampler by Omori, Chib, Shephard and Nakajima (2007).
+License: GPLv2+
 Imports: Rcpp (>= 1.0.4.6)
 LinkingTo: Rcpp, RcppArmadillo
