@@ -25,6 +25,7 @@ Maintainer: \packageMaintainer{SV}
 ~~ Literature or other references for background information ~~
 }
 ~~ Optionally other standard keywords, one per line, ~~
+Stochastic Volatility
 ~~ from file KEYWORDS in the R documentation directory ~~
 \keyword{ package }
 \seealso{
